@@ -1,2 +1,2 @@
 # hello-world
-For Harward CS50
+int main (void)
